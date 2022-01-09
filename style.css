@@ -68,7 +68,7 @@ html {
 #home::before {
     content: "";
     position: absolute;
-    background: url(/backgruondnavbar.jpg) no-repeat center center ;
+    background: url(backgruondnavbar.jpg) no-repeat center center ;
     background-size: cover;
     height: 642px;
     top:0px;
